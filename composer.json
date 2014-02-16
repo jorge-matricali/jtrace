@@ -1,0 +1,25 @@
+{
+    "name": "jorge-matricali/jtrace",
+    "description": "Prints PHP exceptions in a Java style",
+    "keywords": ["trace","java"],
+    "type": "library",
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.0",
+        "squizlabs/php_codesniffer": "~1.5"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jorge Matricali",
+            "email": "jorgematricali@gmail.com"
+        }
+    ]
+}

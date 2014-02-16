@@ -1,0 +1,6 @@
+/.idea
+/composer.lock
+/vendor
+/coverage
+/clover.xml
+/.php_cs.cache
