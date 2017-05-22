@@ -1,6 +1,6 @@
 [![Version 2.3.0](https://img.shields.io/badge/version-v0.0.1-green.svg)](:release:)
-[![Build Status](https://travis-ci.org/jorge-matricali/jtrace.svg?branch=master)](:status:)
-[![MIT licensed](https://img.shields.io/github/license/jorge-matricali/jtrace.svg)](https://raw.githubusercontent.com/jorge-matricali/jtrace/master/LICENSE.md) [![Packagist](https://img.shields.io/packagist/dt/jorge-matricali/jtrace.svg)](https://packagist.org/packages/jorge-matricali/jtrace)
+[![Build Status](https://travis-ci.org/jorge-matricali/jtrace.svg?branch=master)](:status:) [![Coverage Status](https://coveralls.io/repos/github/jorge-matricali/jtrace/badge.svg?branch=master)](https://coveralls.io/github/jorge-matricali/jtrace?branch=master) 
+[![MIT licensed](https://img.shields.io/github/license/jorge-matricali/jtrace.svg)](https://raw.githubusercontent.com/jorge-matricali/jtrace/master/LICENSE.txt) [![Packagist](https://img.shields.io/packagist/dt/jorge-matricali/jtrace.svg)](https://packagist.org/packages/jorge-matricali/jtrace)
 
 # jTrace PHP
 Prints PHP exceptions in a Java style :)
