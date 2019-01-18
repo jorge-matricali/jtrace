@@ -1,5 +1,5 @@
 {
-    "name": "jorge-matricali/jtrace",
+    "name": "matricali/jtrace",
     "description": "Prints PHP exceptions in a Java style",
     "keywords": ["trace","java"],
     "type": "library",
